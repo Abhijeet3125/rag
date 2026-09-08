@@ -74,6 +74,7 @@ Members should retain copies of all documents submitted with their claim.
 
 ## 6. Required Documentation
 
+
 Documentation requirements depend on the type and value of the claim.
 
 A hospitalization claim may require a discharge summary, itemized hospital bill, diagnostic reports, physician bills, pharmacy receipts, and proof of payment.

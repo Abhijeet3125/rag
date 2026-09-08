@@ -1,22 +1,17 @@
 import os
-from pinecone import Pinecone, ServerlessSpec
+from pinecone import Pinecone
 from openai import OpenAI
 from dotenv import load_dotenv
-import json
 
 load_dotenv()
 
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
 
-# create clients
 local_client = OpenAI(base_url="http://127.0.0.1:11434/v1", api_key="ollama")
 pc = Pinecone(api_key=pinecone_api_key)
 
-# creating vector database
-
 index_name = "qwen-rag-chatbot"
 index = pc.Index(index_name)
-
 
 history = [
     {
@@ -40,16 +35,21 @@ while True:
     context = "\n".join([match.metadata["text"] for match in results.matches])
 
     augmented_prompt = f"Context:\n {context}\n\n User Question: {user_query}"
-
     history.append({"role": "user", "content": augmented_prompt})
 
+    # Rolling window to prevent context bloat
+    if len(history) > 5:
+        history = [history[0]] + history[-4:]
+
+    # Switched to the standard, non-reasoning model
     response = local_client.chat.completions.create(
-        model="qwen3.5:4b", messages=history, stream=True
+        model="qwen2.5:3b", messages=history, stream=True
     )
 
     print("Bot: ", end="", flush=True)
     full_reply = ""
 
+    # Simplified standard streaming loop
     for chunk in response:
         content = chunk.choices[0].delta.content
         if content:
@@ -60,5 +60,3 @@ while True:
 
     history[-1] = {"role": "user", "content": user_query}
     history.append({"role": "assistant", "content": full_reply})
-
-    
