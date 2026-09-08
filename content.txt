@@ -1,0 +1,233 @@
+# Medical Claims Information and Policies
+
+## 1. Overview
+
+The Medical Claims Policy defines the general procedures, requirements, eligibility rules, and documentation standards for submitting and processing medical insurance claims. This policy applies to eligible members who receive covered healthcare services from participating or non-participating healthcare providers.
+
+A medical claim is a formal request submitted by a member, hospital, physician, pharmacy, laboratory, or other healthcare provider requesting reimbursement for eligible healthcare expenses. Claims are reviewed according to the member's insurance plan, applicable coverage limits, exclusions, deductibles, co-payment requirements, and policy terms.
+
+The existence of an insurance policy does not automatically mean that every medical service or expense is covered. Coverage depends on the specific terms and conditions of the member's plan. Certain procedures may require prior authorization, referrals, medical documentation, or other approvals before the service is provided.
+
+Members are responsible for understanding their plan benefits and submitting accurate information when requesting reimbursement.
+
+---
+
+## 2. Claim Eligibility
+
+A claim may be eligible for reimbursement when all required conditions are satisfied. The member must have active coverage on the date the medical service was provided. The healthcare service must fall within the benefits included in the member's plan.
+
+For example, if a member's coverage becomes effective on January 1, a medical procedure performed on December 28 of the previous year will generally not qualify under the new policy unless the plan specifically provides retroactive coverage.
+
+Claims may also be subject to annual limits. Some plans may provide a maximum reimbursement amount for specific categories of treatment. Once the applicable annual limit has been reached, additional expenses may not be reimbursed unless the policy provides otherwise.
+
+A claim can also be rejected if the service was provided by an excluded provider, if the treatment is specifically excluded by the policy, or if required authorization was not obtained.
+
+---
+
+## 3. Covered Medical Services
+
+Covered services may include hospitalization, emergency treatment, physician consultations, diagnostic laboratory tests, imaging procedures, prescribed medications, surgery, and certain outpatient procedures.
+
+Coverage varies between plans. A service covered under one plan may not be covered under another plan.
+
+Hospitalization benefits may include expenses related to inpatient treatment, room charges, nursing services, physician fees, diagnostic procedures, and medically necessary medications administered during hospitalization. However, room charges may be subject to a daily maximum.
+
+For example, a plan may provide a maximum room reimbursement of 5,000 units per day. If the member chooses a room costing 8,000 units per day, the insurer may reimburse only the eligible amount specified by the plan, and the member may be responsible for the remaining amount.
+
+Emergency services are generally subject to the emergency-care provisions of the applicable policy. Members should seek immediate medical attention when an emergency occurs and should not delay necessary treatment solely to obtain administrative approval.
+
+---
+
+## 4. Non-Covered Services
+
+Certain expenses are commonly excluded from medical coverage. Examples may include cosmetic procedures that are not medically necessary, experimental treatments not recognized under the policy, services received outside the geographic coverage area without applicable authorization, and expenses specifically listed under policy exclusions.
+
+Routine personal expenses such as television charges, telephone charges, visitor meals, personal convenience items, and non-medical transportation may not qualify for reimbursement.
+
+Cosmetic surgery may be excluded when its primary purpose is aesthetic improvement. However, reconstructive procedures may be eligible when they are medically necessary and satisfy the requirements of the member's policy.
+
+Experimental or investigational treatments may require additional review. A treatment may be classified as investigational when sufficient clinical evidence has not been established or when the treatment does not meet the insurer's medical policy criteria.
+
+---
+
+## 5. Claim Submission Procedure
+
+Members should submit claims as soon as reasonably possible after receiving medical treatment. A typical claim submission may require the member's policy number, patient information, provider information, treatment date, diagnosis information, itemized bills, payment receipts, and relevant medical reports.
+
+A claim submission should contain accurate and complete information. Missing information may result in processing delays.
+
+The standard claim process is:
+
+1. Receive medical treatment.
+2. Obtain an itemized invoice from the healthcare provider.
+3. Collect required medical records and payment documentation.
+4. Complete the claim form.
+5. Submit the claim through the approved submission channel.
+6. The claims department reviews the submitted information.
+7. Additional information may be requested if necessary.
+8. The claim is approved, partially approved, or denied.
+9. The member receives a claim decision and explanation.
+
+Members should retain copies of all documents submitted with their claim.
+
+---
+
+## 6. Required Documentation
+
+Documentation requirements depend on the type and value of the claim.
+
+A hospitalization claim may require a discharge summary, itemized hospital bill, diagnostic reports, physician bills, pharmacy receipts, and proof of payment.
+
+An outpatient claim may require a consultation receipt, prescription, diagnostic report, and itemized invoice.
+
+For prescription claims, the member may need to provide the prescription issued by the healthcare professional and the pharmacy receipt showing the medication purchased and amount paid.
+
+If documentation is incomplete, the claims department may place the claim on hold while requesting additional information. The member may be given a specified period to provide the missing documents.
+
+Failure to provide requested information within the applicable period may result in claim closure or denial.
+
+---
+
+## 7. Prior Authorization
+
+Certain procedures require prior authorization before treatment is received. Prior authorization is an administrative review used to determine whether a planned service meets the applicable coverage requirements.
+
+Examples of services that may require authorization include major surgeries, extended hospitalizations, specialized treatments, high-cost procedures, and certain diagnostic procedures.
+
+Prior authorization does not necessarily guarantee payment. Even when authorization has been granted, the final claim remains subject to eligibility, policy limits, exclusions, deductibles, and other applicable conditions.
+
+If a member receives a service requiring authorization without obtaining the required approval, the claim may be denied or reimbursement may be reduced.
+
+Emergency services may be treated differently under the applicable policy. Members should review their plan documentation for emergency authorization requirements.
+
+---
+
+## 8. Deductibles and Co-Payments
+
+A deductible is the amount that a member must pay toward eligible healthcare expenses before the insurance plan begins paying according to its terms.
+
+For example, suppose a plan has an annual deductible of 10,000 units. If a member incurs an eligible expense of 25,000 units and has not paid anything toward the deductible during the policy year, the member may first be responsible for the applicable 10,000-unit deductible. The remaining eligible amount may then be processed according to the plan's reimbursement rules.
+
+A co-payment is a fixed amount that the member may be required to pay for a covered service.
+
+For example, a plan may require a 500-unit co-payment for each eligible specialist consultation. The insurer may reimburse the remaining eligible amount after the co-payment is applied.
+
+Deductibles and co-payments vary between plans and should be checked before submitting a claim.
+
+---
+
+## 9. Claim Review
+
+After a claim is submitted, the claims department reviews the information to determine whether the requested reimbursement complies with the policy.
+
+The review may include verification of the member's eligibility, provider information, treatment dates, diagnosis, procedure codes, billed amounts, policy exclusions, and available coverage limits.
+
+The insurer may contact the healthcare provider if additional information is required.
+
+Claims may be processed automatically when all required information is available. More complicated claims may require manual review.
+
+The processing time can vary depending on the complexity of the claim and whether additional documentation is required.
+
+---
+
+## 10. Claim Denial
+
+A claim may be denied for several reasons.
+
+Common reasons include:
+
+* The member was not eligible on the treatment date.
+* The service is excluded from the policy.
+* Required prior authorization was not obtained.
+* Required documentation was not provided.
+* The claim was submitted after the applicable deadline.
+* The treatment exceeded an applicable coverage limit.
+* The healthcare provider is not eligible under the applicable plan.
+* The submitted information could not be verified.
+* The treatment did not satisfy the policy's medical-necessity requirements.
+
+A denial does not necessarily mean that the member has no further options. The member may have the right to request clarification, submit additional documentation, or appeal the decision depending on the applicable policy.
+
+---
+
+## 11. Claim Appeals
+
+A member who disagrees with a claim decision may submit an appeal within the period specified by the policy.
+
+An appeal should explain why the member believes the original decision should be reconsidered. Supporting documents may include medical records, physician statements, additional invoices, diagnostic reports, or other relevant information.
+
+The appeal should reference the claim number and include the member's contact information.
+
+After receiving an appeal, the insurer may conduct another review. The reviewer may consider information that was unavailable during the initial claim assessment.
+
+The outcome of an appeal may be an approval, partial approval, continued denial, or request for additional information.
+
+---
+
+## 12. Duplicate Claims
+
+Members should avoid submitting the same medical expense multiple times unless specifically instructed to do so.
+
+If duplicate claims are detected, the claims department may combine, reject, or hold the duplicate submission.
+
+Submitting inaccurate or intentionally duplicated information may result in additional investigation.
+
+A corrected claim should clearly identify the original claim and explain what information has been corrected.
+
+---
+
+## 13. Fraud and Misrepresentation
+
+Insurance claims must contain truthful and accurate information.
+
+Examples of potentially fraudulent activity include intentionally submitting false medical bills, changing treatment dates, creating fictitious medical expenses, deliberately hiding relevant information, or requesting reimbursement for services that were never received.
+
+Claims identified as potentially fraudulent may be subject to additional investigation.
+
+A claim may be denied if fraudulent information is established. Additional consequences may apply depending on the applicable policy and local regulations.
+
+Members should contact the claims department if they discover an error in information previously submitted rather than attempting to conceal or modify the error.
+
+---
+
+## 14. Claim Processing Example
+
+Consider a member who receives hospital treatment costing 80,000 units.
+
+The member's plan has a deductible of 10,000 units and provides coverage for eligible hospitalization expenses. The member submits the hospital invoice, discharge summary, diagnostic reports, and proof of payment.
+
+The claims department first verifies that the member had active coverage on the treatment date. It then determines whether the hospitalization was eligible under the policy.
+
+If the treatment is covered, the deductible is applied according to the plan rules. If 70,000 units remain eligible after the deductible, the insurer may reimburse the applicable percentage of that amount.
+
+The final reimbursement could therefore be different from the amount originally requested by the member.
+
+---
+
+## 15. Important Policy Principle
+
+A claim should not be considered automatically payable simply because a medical service was received or because a healthcare provider submitted an invoice.
+
+The final claim decision depends on the terms of the applicable insurance policy, the member's eligibility, the nature of the treatment, required documentation, applicable limits, exclusions, authorization requirements, and other conditions.
+
+Members should review their specific policy documents for exact coverage terms.
+
+---
+
+## 16. Summary
+
+The medical claims process is designed to ensure that eligible healthcare expenses are reimbursed according to the applicable policy.
+
+Members should:
+
+* Maintain active insurance coverage.
+* Understand their plan benefits.
+* Obtain and retain medical documentation.
+* Submit claims accurately.
+* Submit claims within the required timeframe.
+* Obtain prior authorization when required.
+* Respond promptly to requests for additional information.
+* Review claim decisions carefully.
+* Use the appeal process when appropriate.
+
+This document is a fictional example created for software testing, including **RAG systems, document chunking, embeddings, vector databases, and semantic search**. It does not represent an actual insurance company's policy.
